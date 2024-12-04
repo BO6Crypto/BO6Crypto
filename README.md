@@ -14,7 +14,7 @@ Inspired by the legendary Black Ops 6 vibes, we’re bringing tactical gains and
 🔹 Mission Objective: Build the strongest squad in the crypto game.
 🔹 Status: LIVE on [ https://jup.ag/swap/USDC-7yhf9jNxftCRXBKVVzMC3tn7igr142nXL5uzJpeGpump
 ].
-
+<button id="connectWallet">Connect Wallet</button>
 💰 Early adopters, this is your CALL TO ACTION!
 Join the $BO6 squad, trade, and let’s dominate the charts together.
 
